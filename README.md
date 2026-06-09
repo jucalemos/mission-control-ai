@@ -107,8 +107,10 @@ https://github.com/jucalemos/mission-control-ai.git
 
 ## Vídeo Pitch
 
-PRECISA COLOCAR AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://youtu.be/Q9x5RE6Vph4
 
 ## Conclusão
 
-O Mission Control AI demonstra a aplicação prática de conceitos de programação na simulação de um sistema de monitoramento espacial. Por meio da análise automática dos dados da missão, o sistema é capaz de identificar riscos operacionais, fornecer recomendações e apresentar uma visão geral do estado da missão em cada ciclo de monitoramento.
+O projeto permitiu aplicar conceitos de Python como listas, matrizes, funções, estruturas de repetição e condicionais.
+
+Com a análise dos dados simulados da missão, o sistema consegue identificar situações de risco e apresentar um relatório com o estado geral da operação.
